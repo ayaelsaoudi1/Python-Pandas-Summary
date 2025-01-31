@@ -14,3 +14,4 @@ I understand that programming is a dynamic field, and the tools at my disposal a
 - **Pandas**: Data manipulation, methods, and best practices.
 - **Data Selection**: Indexing, slicing, and accessing elements in a DataFrame.
 - **Advanced Topics**: More complex operations and techniques using Python and Pandas.
+- **Jupyter Notebook Shortcuts**: I’ve also added a PDF file with useful shortcuts for Jupyter Notebook to help improve your workflow.
