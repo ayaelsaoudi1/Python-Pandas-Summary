@@ -46,9 +46,3 @@ The programming landscape is constantly evolving, and while I can always look up
 ### **Jupyter Notebook Productivity**
 - **[Jupyter Notebook Shortcuts](https://github.com/ayaelsaoudi1/My-Python-Pandas-Summary/blob/main/Shortcuts-for-Jupyter.pdf)**  
   A PDF with useful shortcuts to enhance productivity while working in Jupyter Notebooks.
-
----
-
-## How to Use This Repository
-
-This repository is structured for both quick reference and deeper learning. Each section provides a summarized explanation, examples, and links to relevant code snippets and resources. Use the links to explore each concept and apply them as you continue your Python and Pandas learning journey.
