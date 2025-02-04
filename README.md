@@ -52,11 +52,3 @@ The programming landscape is constantly evolving, and while I can always look up
 ## How to Use This Repository
 
 This repository is structured for both quick reference and deeper learning. Each section provides a summarized explanation, examples, and links to relevant code snippets and resources. Use the links to explore each concept and apply them as you continue your Python and Pandas learning journey.
-
----
-
-### Key Features:
-
-- **Organized Structure**: Concepts and examples are grouped by topic for easy access.
-- **Interactive Notebooks**: Direct links to Jupyter Notebooks for hands-on learning.
-- **Quick Reference**: Ideal for refreshing key concepts quickly when coding.
