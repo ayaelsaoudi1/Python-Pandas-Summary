@@ -18,7 +18,7 @@ The programming landscape is constantly evolving, and while I can always look up
   Understanding variables, data types, and conversions in Python.
 
 - **[Basic Python Syntax](https://github.com/ayaelsaoudi1/My-Python-Pandas-Summary/blob/main/3-%20basic%20python%20syntax.ipynb)**  
-  Key syntax rules, arithmetic operations, comparison operations, and logical o.
+  Key syntax rules, arithmetic operations, comparison operations, and logical operations.
 
 - **[Conditional Statements](https://github.com/ayaelsaoudi1/My-Python-Pandas-Summary/blob/main/4-%20conditional%20statements.ipynb)**  
   Using `if`, `elif`, and `else` to control the flow of your program.
