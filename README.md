@@ -41,7 +41,7 @@ The programming landscape is constantly evolving, and while I can always look up
 
 ### **Advanced Python Topics**
 - **[Fundamentals of OOP and Modules in Python](https://github.com/ayaelsaoudi1/My-Python-Pandas-Summary/blob/main/Fundamentals%20of%20OOP%20and%20Modules%20in%20Python.ipynb)**  
-  Understanding object-oriented programming (OOP) and creating modules in Python.
+  Understanding object-oriented programming (OOP) and using modules in Python.
 
 ### **Jupyter Notebook Productivity**
 - **[Jupyter Notebook Shortcuts](https://github.com/ayaelsaoudi1/My-Python-Pandas-Summary/blob/main/Shortcuts-for-Jupyter.pdf)**  
