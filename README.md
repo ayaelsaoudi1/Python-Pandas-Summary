@@ -33,7 +33,7 @@ The programming landscape is constantly evolving, and while I can always look up
   Looping with `for` and `while` loops in Python.
 
 - **[Additional Python Tools](https://github.com/ayaelsaoudi1/My-Python-Pandas-Summary/blob/main/8-%20additional%20python%20tools%20.ipynb)**  
-  Useful Python libraries, modules, and tools for productivity.
+  Useful Python tools for productivity.
 
 ### **Pandas Basics**
 - **[Pandas Fundamentals](https://github.com/ayaelsaoudi1/My-Python-Pandas-Summary/blob/main/9-%20pandas%20fundamentals.ipynb)**  
