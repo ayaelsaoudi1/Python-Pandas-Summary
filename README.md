@@ -22,7 +22,7 @@ By organizing these key ideas, I ensure continued growth as a developer and bett
   Learn about variables, data types, type conversions, and data type operations in Python.
 
 - **[Basic Python Syntax](https://github.com/ayaelsaoudi1/My-Python-Pandas-Summary/blob/main/3-%20basic%20python%20syntax.ipynb)**  
-  Key syntax rules, arithmetic operations, comparison operations, and logical operations.
+  Key syntax rules, arithmetic operations, comparison operations, logical operations, and membership operators. 
 
 - **[Conditional Statements](https://github.com/ayaelsaoudi1/My-Python-Pandas-Summary/blob/main/4-%20conditional%20statements.ipynb)**  
   Control the flow of your program using `if`, `elif`, and `else`.
