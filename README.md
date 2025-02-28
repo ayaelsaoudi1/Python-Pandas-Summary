@@ -49,7 +49,8 @@ By organizing these key ideas, I ensure continued growth as a developer and bett
 
 ### **Jupyter Notebook Productivity**
 - **[Jupyter Notebook Shortcuts](https://github.com/ayaelsaoudi1/My-Python-Pandas-Summary/blob/main/Shortcuts-for-Jupyter.pdf)**  
-  A helpful PDF with Jupyter Notebook shortcuts to enhance productivity and workflow efficiency.
+  A helpful PDF with Jupyter Notebook shortcuts to enhance productivity and workflow efficiency.  
+  This PDF was sourced from **365 Data Science**.
 
 ## Contributions
 
